@@ -1,0 +1,2 @@
+make sure the node-fetch package is installed in the working directory of lambda function on C9.
+Alternatively, create a package.json file with corresponding dependency and run npm install.
